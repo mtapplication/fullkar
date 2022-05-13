@@ -1,4 +1,4 @@
 [{
 	"avtive": "yes",
-	"icon": "",
+	"image": "https:\/\/mtapplication.github.io\/fullkar\/update_img.png",
 }]
